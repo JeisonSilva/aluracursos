@@ -50,3 +50,11 @@ body{
     background: none;
     border: 1px solid var(--primary-color);
 }
+
+.combo__obs{
+    color: var(--disclaimer);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+}
