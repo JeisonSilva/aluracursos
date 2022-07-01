@@ -31,6 +31,7 @@ body {
     background-color: var(--button-color-primary);
     border-radius: 8px;
 
+    margin: 0 0 10px 0;
     width: 100%;
     padding: 16px;
 }
@@ -40,3 +41,21 @@ body {
     border: 1px solid var(--primary-color);
 }
 
+.sessao2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.sessao2__container{
+    text-align: start;
+    flex-basis: 35%;
+}
+
+.sessao2__img{
+    flex-basis: 10%;
+}
