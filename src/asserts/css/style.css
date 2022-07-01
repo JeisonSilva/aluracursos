@@ -36,6 +36,10 @@ body {
     padding: 16px;
 }
 
+.sessao__botao-mini{
+    width: 135px;
+}
+
 .sessao__botao-transparente{
     background: none;
     border: 1px solid var(--primary-color);
@@ -52,8 +56,18 @@ body {
 
 
 .sessao2__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     text-align: start;
     flex-basis: 35%;
+    row-gap: 2%;
+
+    height: 100%;
+}
+
+.sessao2__container-order1{
+    order: -1;
 }
 
 .sessao2__img{
