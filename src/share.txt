@@ -1,0 +1,5 @@
+
+                <div><img src="./asserts/img/Combo.png" alt="Combo alura onde oferece cursos alura com alura línguas"></div>
+                <div><a href="">Assine por 12x de R$ 120,00*</a></div>
+                <div><a href="">Assinar somente o Alura+</a></div>
+                <p>*O preço pode variar caso a assinatura seja feita em outros planos.</p>

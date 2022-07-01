@@ -1,0 +1,75 @@
+body {
+    background-color: var(--fundo);
+}
+
+.sessao{
+    display: flex;
+
+    background-image: url(../img/Background.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-size: contain;
+
+    width: 100vw;
+    height: 100vh;
+}
+
+.sessao__container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    flex-basis: 35%;
+
+    text-align: center;
+
+    margin: 10% 0 0 10%;
+    height: 45vh;
+}
+
+.sessao__botao-default{
+    background-color: var(--button-color-primary);
+    border-radius: 8px;
+
+    margin: 0 0 10px 0;
+    width: 100%;
+    padding: 16px;
+}
+
+.sessao__botao-mini{
+    width: 135px;
+}
+
+.sessao__botao-transparente{
+    background: none;
+    border: 1px solid var(--primary-color);
+}
+
+.sessao2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.sessao2__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: start;
+    flex-basis: 35%;
+    row-gap: 2%;
+
+    height: 100%;
+}
+
+.sessao2__container-order1{
+    order: -1;
+}
+
+.sessao2__img{
+    flex-basis: 10%;
+}
