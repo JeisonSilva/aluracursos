@@ -1,0 +1,35 @@
+.titulo__apresentacao {
+    font-family: "Inter";
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    color: var(--primary-color);
+}
+
+.titulo {
+    font-family:  "Inter";
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 120%;
+    color: var(--primary-color);
+}
+
+.texto{
+    font-family:  "Inter";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: var(--secundary-color);
+}
+
+.texto__decoracao--false{
+    text-decoration: none;
+}
+
+.observacao{
+    font-family:  "Inter";
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: var(--disclaimer);
+}
