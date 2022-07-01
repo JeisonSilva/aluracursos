@@ -9,6 +9,7 @@ Treinar a utilização do Flex-box para elaboração de layouts.
 |versão|descrição|link|
 -------|---------|----|
 v0.0.0|Apresentação do curso e plataforma| https://aluracursos.vercel.app/
+v0.1.0|Documentação| https://github.com/JeisonSilva/aluracursos
 
 
 ## Apresentação do Site
