@@ -73,3 +73,24 @@ body {
 .sessao2__img{
     flex-basis: 10%;
 }
+
+.sessao2__dispositivos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.sessao2__dispositivos-column{
+    display: flex;
+    justify-content: space-around;
+
+    width: 100vw;
+}
+
+.sessao2__dispositivos-center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
