@@ -14,6 +14,14 @@
     color: var(--primary-color);
 }
 
+.subTitulo{
+    font-family:  "Inter";
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 120%;
+    color: var(--primary-color);
+}
+
 .texto{
     font-family:  "Inter";
     font-weight: 400;
